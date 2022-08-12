@@ -11,30 +11,27 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* M.S. in Oceanography, University of California, San Diego, 2020
+* B.S. in Earth & Planetary Sciences, Harvard University, 2017
+* B.S. in Engineering Sciences, Harvard University, 2017
 
-#Work experience
-#======
-#* Summer 2015: Research Assistant
-#  * Github University
-#  * Duties included: Tagging issues
-#  * Supervisor: Professor Git
+Work experience
+======
+* Scripps Institution of Oceanography, UCSD: Graduate Research Assistant
+  * Sep. 2019 - 
+  * La Jolla, CA, USA
 
-#* Fall 2015: Research Assistant
-#  * Github University
-#  * Duties included: Merging pull requests
-#  * Supervisor: Professor Hub
-  
-#Skills
-#======
-#* Skill 1
-#* Skill 2
-#  * Sub-skill 2.1
-#  * Sub-skill 2.2
-#  * Sub-skill 2.3
-#* Skill 3
+* Wildlands Trust: Research Assistant
+  * Oct. 2018 - Sep. 2019
+  * Plymouth, MA
+
+* West Monroe Parters: Energy & Utilities Experienced Consultant 
+  * Aug. 2017 - Sep. 2018
+  * New York, NY 
+
+* Harvard University: Undergraduate Research Assistant
+  * Apr. 2015 - May 2017
+  * Cambridge, MA 
 
 Publications
 ======
