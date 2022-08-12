@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "[Download full CV here](http://mattluongo.github.io/files/LuongoCV.pdf) "
+title: "[Download full CV here](http://mattluongo.github.io/files/LuongoCV.pdf)"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* <b>M.S.</b> in <b>Oceanography</b>, 2020<br>
+* <b>M.S. in Oceanography</b>, 2020<br>
   <font size = "3"> Scripps Institution of Oceanography, UCSD</font>
 * <b>B.S. in Earth & Planetary Sciences</b>, 2017 <br>
   <font size = "3"> Harvard University</font>
