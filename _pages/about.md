@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 		
-I'm a 3rd Year PhD student at <a href="https://scripps.ucsd.edu/">Scripps Institution of Oceanography</a> advised by Professors <a href="https://sxie.scrippsprofiles.ucsd.edu/">Shang-Ping Xie</a> & <a href="eisenman.ucsd.edu/">Ian Eisenman</a>. 
+I'm a 3rd Year PhD student and NASA FINESST Fellow at [Scripps Institution of Oceanography](https://scripps.ucsd.edu/) advised by Professors [Shang-Ping Xie](https://sxie.scrippsprofiles.ucsd.edu/) & [Ian Eisenman](https://eisenman.ucsd.edu/). 
 		
 I study large-scale climate dynamics with an emphasis on atmospheric and oceanic energy transport and coupled ocean-atmosphere feedbacks. Check out my research page for details on recent studies.
 
