@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* M.S. in Oceanography (2020)
-  Scripps Institution of Oceanography, UCSD
+* M.S. in Oceanography (2020)<br>
+  <font size = "2"> Scripps Institution of Oceanography, UCSD</font>
 * B.S. in Earth & Planetary Sciences (2017) 
   Harvard University
 * B.S. in Engineering Sciences (2017) 
