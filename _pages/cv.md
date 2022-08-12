@@ -11,15 +11,18 @@ redirect_from:
 
 Education
 ======
-* M.S. in Oceanography, University of California, San Diego, 2020
-* B.S. in Earth & Planetary Sciences, Harvard University, 2017
-* B.S. in Engineering Sciences, Harvard University, 2017
+* M.S. in Oceanography (2020)
+  Scripps Institution of Oceanography, UCSD
+* B.S. in Earth & Planetary Sciences (2017) 
+  Harvard University
+* B.S. in Engineering Sciences (2017) 
+  Harvard University
 
 Work experience
 ======
-* Scripps Institution of Oceanography, UCSD: Graduate Research Assistant
-  * Sep. 2019 - 
-  * La Jolla, CA, USA
+* Scripps Institution of Oceanography, UCSD: La Jolla, CA, USA
+  Sep. 2019 - 
+  * test
 
 * Wildlands Trust: Research Assistant
   * Oct. 2018 - Sep. 2019
