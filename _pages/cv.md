@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "[Download full CV here](http://mattluongo.github.io/files/LuongoCV.pdf)"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -8,6 +8,8 @@ redirect_from:
 ---
 
 {% include base_path %}
+
+Download full CV [here](http://academicpages.github.io/files/paper1.pdf) <small>(Updated August 2022).</small>
 
 Education
 ======
