@@ -13,15 +13,15 @@ Education
 ======
 * M.S. in Oceanography (2020)<br>
   <font size = "2"> Scripps Institution of Oceanography, UCSD</font>
-* B.S. in Earth & Planetary Sciences (2017) 
-  Harvard University
+* B.S. in Earth & Planetary Sciences (2017) <br>
+  <font size = "2"> Harvard University</font>
 * B.S. in Engineering Sciences (2017) 
-  Harvard University
+  <font size = "2"> Harvard University</font>
 
 Work experience
 ======
-* Scripps Institution of Oceanography, UCSD: La Jolla, CA, USA
-  Sep. 2019 - 
+* Scripps Institution of Oceanography, UCSD: <em>La Jolla, CA, USA</em> <br>
+  <font size = "2">Graduate Research Assistant: Sep. 2019 - 
   * test
 
 * Wildlands Trust: Research Assistant
