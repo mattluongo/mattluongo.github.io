@@ -26,7 +26,7 @@ Work Experience
 * <b>Wildlands Trust</b>, Plymouth, MA<br>
   <font size = "3">Oct. 2018 - Sep. 2019: Research Assistant</font>
 
-* <b>West Monroe Parters</b>, New York, NY<br>
+* <b>West Monroe Partners</b>, New York, NY<br>
   <font size = "3">Aug. 2017 - Sep. 2018: Energy & Utilities Experienced Consultant</font>
 
 Publications
