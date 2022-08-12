@@ -29,9 +29,6 @@ Work Experience
 * <b>West Monroe Parters</b>, New York, NY<br>
   <font size = "3">Aug. 2017 - Sep. 2018: Energy & Utilities Experienced Consultant</font>
 
-* <b>Harvard University</b>, Cambridge, MA<br>
-  <font size = "3">Apr. 2015 - May. 2017: Undergraduate Research Assistant</font>
-
 Publications
 ======
   <ul>{% for post in site.publications %}
