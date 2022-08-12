@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "[Download full CV here](http://mattluongo.github.io/files/LuongoCV.pdf) "
 permalink: /cv/
 author_profile: true
 redirect_from:
