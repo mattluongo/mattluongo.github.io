@@ -21,20 +21,16 @@ Education
 Work experience
 ======
 * Scripps Institution of Oceanography, UCSD: <em>La Jolla, CA, USA</em> <br>
-  <font size = "2">Graduate Research Assistant: Sep. 2019 - 
-  * test
+  <font size = "2">Graduate Research Assistant: Sep. 2019 - </font>
 
-* Wildlands Trust: Research Assistant
-  * Oct. 2018 - Sep. 2019
-  * Plymouth, MA
+* Wildlands Trust: <em> Plymouth, MA, USA </em> <br>
+  <font size = "2">Research Assistant: Oct. 2018 - Sep. 2019</font>
 
-* West Monroe Parters: Energy & Utilities Experienced Consultant 
-  * Aug. 2017 - Sep. 2018
-  * New York, NY 
+* West Monroe Parters: <em> New York, NY, USA </em>
+  <font size = "2">Energy & Utilities Experienced Consultant: Aug. 2017 - Sep. 2018</font>
 
-* Harvard University: Undergraduate Research Assistant
-  * Apr. 2015 - May 2017
-  * Cambridge, MA 
+* Harvard University: <em> Cambridge, MA, USA </em>
+  <font size = "2">Undergraduate Research Assistant: Apr. 2015 - May. 2017</font>
 
 Publications
 ======
