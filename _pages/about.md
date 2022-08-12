@@ -7,8 +7,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
-		
-		
+
+<br><br>
 		
 I'm a 3rd Year PhD student and NASA FINESST Fellow at [Scripps Institution of Oceanography](https://scripps.ucsd.edu/) advised by Professors [Shang-Ping Xie](https://sxie.scrippsprofiles.ucsd.edu/) & [Ian Eisenman](https://eisenman.ucsd.edu/). 
 		
