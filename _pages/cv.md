@@ -15,9 +15,9 @@ Education
 ======
 * <b>M.S. in Oceanography</b>, 2020<br>
   <font size = "3"> Scripps Institution of Oceanography, UCSD</font>
-* <b>B.S. in Earth & Planetary Sciences</b>, 2017 <br>
+* <b>A.B. in Earth & Planetary Sciences</b>, 2017 <br>
   <font size = "3"> Harvard University</font>
-* <b>B.S. in Engineering Sciences</b>, 2017 <br>
+* <b>A.B. in Engineering Sciences</b>, 2017 <br>
   <font size = "3"> Harvard University</font>
 
 Work Experience
