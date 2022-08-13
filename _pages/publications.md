@@ -14,6 +14,6 @@ author_profile: true
   
 ## Submitted
 ====== 
-1. <b>Luongo, M.T.</b>, Xie, S.-P., Eisenman, I., Hwang, Y.-T., & Tseng, H.-Y. A Dynamic Pathway by which Northern Hemisphere Extratropical Cooling Elicits a Tropical Response. Manuscript submitted to <em>Geophysical Research Letters</em>.
+1. <b>Luongo, M.T.</b>, Xie, S.-P., Eisenman, I., Hwang, Y.-T., & Tseng, H.-Y. A Dynamic Pathway by which Northern Hemisphere Extratropical Cooling Elicits a Tropical Response. Manuscript submitted to <em>Geophysical Research Letters</em>. [Preprint](https://www.essoar.org/doi/abs/10.1002/essoar.10512160.1).
 2. Lutsko, N.J., <b>Luongo, M.T.</b>, Wall, C.J., & Myers, T.A. Correlation Between Cloud Adjustments and Cloud Feedbacks Responsible for Larger Range of Climate Sensitivities in CMIP6. Manuscript submitted to <em>Journal of Geophysical Research: Atmospheres</em>. [Preprint](https://www.essoar.org/doi/10.1002/essoar.10512021.1). 
 
