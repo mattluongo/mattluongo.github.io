@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : &luongomatt
 facebook:
   username               :
   app_id                 :
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Matt Luongo"
   avatar           : "matt.jpeg"
-  bio              : "PhD Student at Scripps Institution of Oceanography"
+  bio              : "PhD Student at Scripps Institution of Oceanography <em>(he/him)</em>"
   location         : "La Jolla, CA"
   employer         :
   pubmed           : 
