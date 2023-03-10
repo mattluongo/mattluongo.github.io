@@ -16,6 +16,6 @@ author_profile: true
   
 ## Submitted
 ====== 
-1. <b>Luongo, M.T.</b>, Brizuela, N.G., Eisenman, I., & Xie, S.-P. Retaining Short-term Variability Reduces Biases in Wind Stress Overriding Simulations. Manuscript submitted to <em>Journal of Advances in Modeling Earth Systems (JAMES)</em>.
+1. <b>Luongo, M.T.</b>, Brizuela, N.G., Eisenman, I., & Xie, S.-P. Retaining Short-term Variability Reduces Biases in Wind Stress Overriding Simulations. Manuscript submitted to <em>Journal of Advances in Modeling Earth Systems (JAMES)</em>. [Pre-print](https://www.authorea.com/users/529275/articles/628532-retaining-short-term-variability-reduces-biases-in-wind-stress-overriding-simulations).
 2. Tseng, H.-Y., Hwang, Y.-T., Xie, S.-P., Tseng, Y.-H., Kang, S.M., <b>Luongo, M.T.</b>, & Eisenman, I. Fast and Slow Responses of the Tropical Pacific to Radiative Forcing in Northern High Latitudes. Manuscript submitted to <em>Journal of Climate</em>.
 
