@@ -18,5 +18,5 @@ author_profile: true
 ## Submitted Manuscripts
 ====== 
 1. <b>Luongo, M.T.</b>, Brizuela, N.G., Eisenman, I., & Xie, S.-P. Retaining Short-term Variability Reduces Biases in Wind Stress Overriding Simulations. Manuscript submitted to <em>Journal of Advances in Modeling Earth Systems (JAMES)</em>. [Pre-print](https://www.authorea.com/users/529275/articles/628532-retaining-short-term-variability-reduces-biases-in-wind-stress-overriding-simulations).
-2. Wan, J.S., Chen, C.-C.-J., Tilmes, S., <b>Luongo, M.T.</b>, Richter, J.H., & Ricke, K. Unexpected Failure of Regional Marine Cloud Brightening in a Warmer World. Manuscript submitted.
+2. Wan, J.S., Chen, C.-C.-J., Tilmes, S., <b>Luongo, M.T.</b>, Richter, J.H., & Ricke, K. Unexpected Failure of Regional Marine Cloud Brightening in a Warmer World. Manuscript submitted. [Pre-print](https://www.researchsquare.com/article/rs-3250111/v1).
 
