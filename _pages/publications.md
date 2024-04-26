@@ -18,5 +18,5 @@ author_profile: true
   
 ## Submitted Manuscripts
 ====== 
-1. Wan, J.S., Chen, C.-C.-J., Tilmes, S., <b>Luongo, M.T.</b>, Richter, J.H., & Ricke, K. Diminished Efficacy of Regional Marine Cloud Brightening in a Warmer World. Manuscript submitted to <em>Nature Climate Change</em>. [Pre-print](https://www.researchsquare.com/article/rs-3250111/v1).
+1. Wan, J.S., Chen, C.-C.-J., Tilmes, S., <b>Luongo, M.T.</b>, Richter, J.H., & Ricke, K. Diminished Efficacy of Regional Marine Cloud Brightening in a Warmer World. Manuscript in press at <em>Nature Climate Change</em>. [Pre-print](https://www.researchsquare.com/article/rs-3250111/v1).
 
