@@ -19,6 +19,6 @@ author_profile: true
 
 ## Submitted Manuscripts
 ====== 
-1. <b>Luongo, M.T.</b>, Xie, S.-P., Eisenman, I., Sun, S., & Peng, Q. How the Subsurface Tropical Pacific Responds to Hemispherically Asymmetric Temperature Forcing: Implications for Cross-Equatorial Mass and Heat Transport. Manuscript submitted to <em> Journal of Climate </em>.
+1. <b>Luongo, M.T.</b>, Xie, S.-P., Eisenman, I., Sun, S., & Peng, Q. How the Subsurface Tropical Pacific Responds to Hemispherically Asymmetric Temperature Forcing: Implications for Cross-Equatorial Mass and Heat Transport. Manuscript submitted to <em> Journal of Climate </em>. [Pre-print](https://essopenarchive.org/users/529275/articles/1213753-how-the-subsurface-tropical-pacific-responds-to-hemispherically-asymmetric-temperature-forcing-implications-for-cross-equatorial-mass-and-heat-transport).
 2. Taylor, B.A., Shi, J.-R., Talley, L.D., Xie, S.-P., <b>Luongo, M.T.</b>, & Peng, Q. Warming Band in Southern Ocean's Indian Sector: The Role of Remote Atlantic Buoyancy Forcing via Poleward-Shifting Circulation Response. Manuscript submitted to <em> Journal of Climate </em>.
 
