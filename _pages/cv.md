@@ -13,6 +13,8 @@ Download full CV [here](http://mattluongo.github.io/files/LuongoCV.pdf) <small>(
 
 Education
 ======
+* <b>Ph.D. in Oceanography</b>, 2024<br>
+  <font size = "3"> Scripps Institution of Oceanography, UCSD</font>
 * <b>M.S. in Oceanography</b>, 2020<br>
   <font size = "3"> Scripps Institution of Oceanography, UCSD</font>
 * <b>A.B. in Earth & Planetary Sciences</b>, 2017 <br>
