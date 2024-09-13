@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 		
-I'm a PhD student and NASA FINESST Fellow at [Scripps Institution of Oceanography](https://scripps.ucsd.edu/) advised by Professors [Shang-Ping Xie](https://sxie.scrippsprofiles.ucsd.edu/) & [Ian Eisenman](https://ieisenman.scrippsprofiles.ucsd.edu/). 
+I recently completed my PhD as a NASA FINESST Fellow at [Scripps Institution of Oceanography](https://scripps.ucsd.edu/) advised by Professors [Shang-Ping Xie](https://sxie.scrippsprofiles.ucsd.edu/) & [Ian Eisenman](https://ieisenman.scrippsprofiles.ucsd.edu/). In Fall 2024, I'll be transitioning to a CICOES Postdoctoral Fellowship at the University of Washington and Pacific Marine Environmental Laboratory advised by Professor [Kyle Armour](https://faculty.washington.edu/karmour/) and Dr. [Gregory Johnson](https://www.pmel.noaa.gov/scientist/dr-gregory-c-johnson). 
 		
 I study large-scale climate dynamics with an emphasis on atmospheric and oceanic energy transport and coupled ocean-atmosphere feedbacks. Check out my publications page for some recent studies.
 
