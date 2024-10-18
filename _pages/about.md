@@ -14,4 +14,4 @@ I study large-scale climate dynamics with an emphasis on atmospheric and oceanic
 
 I graduated from Harvard University in 2017 with a joint degree in Earth & Planetary Sciences and Environmental Engineering. Before graduate school, I worked as a utility consultant and then as a research assistant for a land trust. In my free time you can find me enjoying and exploring California's natural spaces or catching live music.
 
-Feel free to shoot me an email at mluongo(at)ucsd.edu.
+Feel free to shoot me an email at mluongo(at)uw.edu.
