@@ -25,7 +25,7 @@ Education
 Work Experience
 ======
 * <b>University of Washington</b>, Seattle, WA<br>
-* <b>NOAA Pacific Marine Environmental Laboratory</b>, Seattle, WA<br>
+  <b>NOAA Pacific Marine Environmental Laboratory</b>, Seattle, WA<br>
   <font size = "3">2019 - present: CICOES Postdoctoral Research Fellow</font>
   
 * <b>Scripps Institution of Oceanography, UCSD</b>, La Jolla, CA<br>
