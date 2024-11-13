@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Matt Luongo <em>(he/him)</em>"
+  name             : "Matt Luongo"
   avatar           : "matt.jpeg"
-  bio              : "<b>Postdoctoral Fellow at UW & NOAA PMEL</b>"
+  bio              : "<b>Postdoctoral Fellow at <br>UW & NOAA PMEL</b><br><em>(he/him)</em>"
   location         : "Seattle, WA"
   employer         :
   pubmed           : 
