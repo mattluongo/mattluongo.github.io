@@ -24,11 +24,14 @@ Education
 
 Work Experience
 ======
+* <b>University of Washington & NOAA Pacific Marine Environmental Laboratory</b>, Seattle, WA<br>
+  <font size = "3">2019 - present: CICOES Postdoctoral Research Fellow</font>
+  
 * <b>Scripps Institution of Oceanography, UCSD</b>, La Jolla, CA<br>
-  <font size = "3">Sep. 2019 - Present: Graduate Research Assistant</font>
+  <font size = "3">2019 - 2024: Graduate Student Researcher</font>
 
 * <b>Wildlands Trust</b>, Plymouth, MA<br>
-  <font size = "3">Oct. 2018 - Sep. 2019: Research Assistant</font>
+  <font size = "3">2018 - 2019: Research Assistant</font>
 
 * <b>West Monroe Partners</b>, New York, NY<br>
-  <font size = "3">Aug. 2017 - Sep. 2018: Energy & Utilities Experienced Consultant</font>
+  <font size = "3">2017 - 2018: Energy & Utilities Experienced Consultant</font>
