@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Matt Luongo"
   avatar           : "matt.jpeg"
-  bio              : "<b>Postdoctoral Fellow at <br>UW & NOAA PMEL</b><br><em>(he/him)</em>"
+  bio              : "<b>Postdoctoral Fellow at <br>UW</b><br><em>(he/him)</em>"
   location         : "Seattle, WA"
   employer         :
   pubmed           : 
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "luongomatt"
+  twitter          :
   vine             :
   weibo            :
   xing             :
