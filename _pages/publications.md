@@ -17,10 +17,10 @@ author_profile: true
 2. <b>Luongo, M.T.</b>, Xie, S.-P., & Eisenman, I. (2022). Buoyancy Forcing Dominates the Cross-Equatorial Ocean Heat Transport Response to Northern Hemisphere Extratropical Cooling. <em>Journal of Climate 35</em>(20), pp. 3071-3090. doi: [10.1175/JCLI-D-21-0950.1](https://doi.org/10.1175/JCLI-D-21-0950.1).
 1. <b>Luongo, M.T.</b>, Kurbatov, A.V., Erhardt, T., Mayewski, P.A., McCormick, M., More, A.F., Spaulding, N.E., Wheatley, S.D., Yates, M.G., & Bohleber, P.D. (2017). Possible Icelandic Tephra Found in European Colle Gnifetti Glacier. <em>Geochemistry, Geophysics, Geosystems, 18</em>(11), pp. 3904-3909. doi: [10.1002/2017GC007022](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2017GC007022).
 
-## Submitted & Accepted Manuscripts
+## Submitted Manuscripts
 ====== 
 1. <b>Luongo, M.T.</b>, Xie, S.-P., Eisenman, I., Sun, S., & Peng, Q. How the Subsurface Tropical Pacific Responds to Hemispherically Asymmetric Temperature Forcing: Implications for Cross-Equatorial Mass and Heat Transport. Accepted in <em> Journal of Climate</em>. [Pre-print](https://essopenarchive.org/users/529275/articles/1213753-how-the-subsurface-tropical-pacific-responds-to-hemispherically-asymmetric-temperature-forcing-implications-for-cross-equatorial-mass-and-heat-transport).
 2. Taylor, B.A., Shi, J.-R., Talley, L.D., Xie, S.-P., <b>Luongo, M.T.</b>, & Peng, Q. Warming Band in Southern Ocean's Indian Sector: The Role of Remote Atlantic Buoyancy Forcing via Poleward-Shifting Circulation Response. Accepted in <em> Journal of Climate</em>.
-3. Peng, Q., Xie, S.-P., Miyamoto, A., Deser, C., Zhang, P., & <b>Luongo, M.T.</b> Unusual growth of the 2023-24 El Niño against the odds of Indo-Atlantic warming. Manuscript submitted.
+3. Peng, Q., Xie, S.-P., Miyamoto, A., Deser, C., Zhang, P., & <b>Luongo, M.T.</b> Unusual growth of the 2023-24 El Niño against the odds of Indo-Atlantic warming. Accepted in <em>Nature Geoscience</em>. 
 4. Hahn, L.C., Lutsko, N.J., Eisenman, I., <b>Luongo, M.T.</b>, & Xie, S.-P. Contribution of AMOC Decline to Uncertainty in Global Warming via Ocean Heat Uptake and Climate Feedbacks. Manuscript submitted. [Pre-print](https://eartharxiv.org/repository/view/8283/). 
 
