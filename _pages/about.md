@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 		
-I am a CICOES Postdoctoral Research Fellow at the [University of Washington](https://environment.uw.edu/) advised by Professor [Kyle Armour](https://faculty.washington.edu/karmour/) and Dr. [Gregory Johnson]([https://www.pmel.noaa.gov/scientist/dr-gregory-c-johnson](https://floats.pmel.noaa.gov/gregory-c-johnson-home-page)). 
+I am a CICOES Postdoctoral Research Fellow at the [University of Washington](https://environment.uw.edu/) advised by Professor [Kyle Armour](https://faculty.washington.edu/karmour/) and Dr. [Gregory Johnson](https://www.pmel.noaa.gov/scientist/dr-gregory-c-johnson](https://floats.pmel.noaa.gov/gregory-c-johnson-home-page). 
 		
 I study large-scale climate dynamics through the lens of physical oceanography. I place a particular emphasis on coupled ocean-atmosphere interactions and energy transport. Check out my publications page for some recent studies.
 
