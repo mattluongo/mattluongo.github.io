@@ -9,6 +9,7 @@ author_profile: true
 
 ## Published 
 ======
+8. <b>Luongo, M.T.</b>, Xie, S.-P., Eisenman, I., Sun, S., & Peng, Q. How the Subsurface Tropical Pacific Responds to Subtropical Surface Cooling: Implications for Cross-Equatorial Transport. In press at <em> Journal of Climate</em>. doi: [https://doi.org/10.1175/JCLI-D-24-0440.1](https://journals.ametsoc.org/view/journals/clim/aop/JCLI-D-24-0440.1/JCLI-D-24-0440.1.xml?tab_body=fulltext-display).
 7. Wan, J.S., Chen, C.-C.-J., Tilmes, S., <b>Luongo, M.T.</b>, Richter, J.H., & Ricke, K. (2024). Diminished Efficacy of Regional Marine Cloud Brightening in a Warmer World. <em>Nature Climate Change</em>. doi: [10.1038/s41558-024-02046-7](https://www.nature.com/articles/s41558-024-02046-7).
 6. <b>Luongo, M.T.</b>, Brizuela, N.G., Eisenman, I., & Xie, S.-P. (2024). Retaining Short-Term Variability Reduces Mean State Biases in Wind Stress Overriding Simulations. <em>Journal of Advances in Modeling Earth Systems</em>, 16, e2023MS003665. doi: [10.1029/2023MS003665](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2023MS003665).
 5. Tseng, H.-Y., Hwang, Y.-T., Xie, S.-P., Tseng, Y.-H., Kang, S.M., <b>Luongo, M.T.</b>, & Eisenman, I. (2023). Fast and Slow Responses of the Tropical Pacific to Radiative Forcing in Northern High Latitudes. <em>Journal of Climate 36</em>(16), pp. 5337-5349. doi: [10.1175/JCLI-D-22-0622.1](https://journals.ametsoc.org/view/journals/clim/aop/JCLI-D-22-0622.1/JCLI-D-22-0622.1.xml).
@@ -19,8 +20,7 @@ author_profile: true
 
 ## Submitted Manuscripts
 ====== 
-1. <b>Luongo, M.T.</b>, Xie, S.-P., Eisenman, I., Sun, S., & Peng, Q. How the Subsurface Tropical Pacific Responds to Hemispherically Asymmetric Temperature Forcing: Implications for Cross-Equatorial Mass and Heat Transport. Accepted in <em> Journal of Climate</em>. [Pre-print](https://essopenarchive.org/users/529275/articles/1213753-how-the-subsurface-tropical-pacific-responds-to-hemispherically-asymmetric-temperature-forcing-implications-for-cross-equatorial-mass-and-heat-transport).
-2. Taylor, B.A., Shi, J.-R., Talley, L.D., Xie, S.-P., <b>Luongo, M.T.</b>, & Peng, Q. Warming Band in Southern Ocean's Indian Sector: The Role of Remote Atlantic Buoyancy Forcing via Poleward-Shifting Circulation Response. Accepted in <em> Journal of Climate</em>.
-3. Peng, Q., Xie, S.-P., Miyamoto, A., Deser, C., Zhang, P., & <b>Luongo, M.T.</b> Unusual growth of the 2023-24 El Niño against the odds of Indo-Atlantic warming. Accepted in <em> Nature Geoscience</em>. 
-4. Hahn, L.C., Lutsko, N.J., Eisenman, I., <b>Luongo, M.T.</b>, & Xie, S.-P. Contribution of AMOC Decline to Uncertainty in Global Warming via Ocean Heat Uptake and Climate Feedbacks. Manuscript submitted. [Pre-print](https://eartharxiv.org/repository/view/8283/). 
+1. Taylor, B.A., Shi, J.-R., Talley, L.D., Xie, S.-P., <b>Luongo, M.T.</b>, & Peng, Q. Warming Band in Southern Ocean's Indian Sector: The Role of Remote Atlantic Buoyancy Forcing via Poleward-Shifting Circulation Response. Accepted in <em> Journal of Climate</em>.
+2. Peng, Q., Xie, S.-P., Miyamoto, A., Deser, C., Zhang, P., & <b>Luongo, M.T.</b> Unusual growth of the 2023-24 El Niño against the odds of Indo-Atlantic warming. Accepted in <em> Nature Geoscience</em>. 
+3. Hahn, L.C., Lutsko, N.J., Eisenman, I., <b>Luongo, M.T.</b>, & Xie, S.-P. Contribution of AMOC Decline to Uncertainty in Global Warming via Ocean Heat Uptake and Climate Feedbacks. Manuscript submitted. [Pre-print](https://eartharxiv.org/repository/view/8283/). 
 
