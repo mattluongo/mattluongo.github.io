@@ -22,5 +22,5 @@ author_profile: true
 
 ## Submitted Manuscripts
 ====== 
-1. Hahn, L.C., Lutsko, N.J., Eisenman, I., <b>Luongo, M.T.</b>, & Xie, S.-P. Contribution of AMOC Decline to Uncertainty in Global Warming via Ocean Heat Uptake and Climate Feedbacks. Manuscript submitted. [Pre-print](https://eartharxiv.org/repository/view/8283/). 
+1. Hahn, L.C., Lutsko, N.J., Eisenman, I., <b>Luongo, M.T.</b>, & Xie, S.-P. Contribution of AMOC Decline to Uncertainty in Global Warming via Ocean Heat Uptake and Climate Feedbacks. Accepted in <em>Journal of Climate</em>. [Pre-print](https://eartharxiv.org/repository/view/8283/). 
 
