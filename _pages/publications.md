@@ -11,6 +11,8 @@ author_profile: true
 ======
 <div style="font-size: 0.9em;">
 11. Hahn, L.C., Lutsko, N.J., Eisenman, I., <b>Luongo, M.T.</b>, & Xie, S.-P. (2025). Contribution of AMOC Decline to Uncertainty in Global Warming via Ocean Heat Uptake and Climate Feedbacks. In press at <em>Journal of Climate</em>. doi: [https://doi.org/10.1175/JCLI-D-24-0752.1](https://journals.ametsoc.org/view/journals/clim/aop/JCLI-D-24-0752.1/JCLI-D-24-0752.1.xml).
+</div>
+<div style="font-size: 0.9em;">
 10. <b>Luongo, M.T.</b>, Xie, S.-P., Eisenman, I., Sun, S., & Peng, Q. (2025). How the Subsurface Tropical Pacific Responds to Subtropical Surface Cooling: Implications for Cross-Equatorial Transport. <em> Journal of Climate</em>, <em>38</em>(14), pp.3313-3331. doi: [https://doi.org/10.1175/JCLI-D-24-0440.1](https://journals.ametsoc.org/view/journals/clim/aop/JCLI-D-24-0440.1.xml).
 </div>
 9. Taylor, B.A., Shi, J.-R., Talley, L.D., Xie, S.-P., <b>Luongo, M.T.</b>, & Peng, Q. (2025). Warming Band in Southern Ocean's Indian Sector: The Role of Remote Atlantic Buoyancy Forcing via Poleward-Shifting Circulation Response. <em> Journal of Climate</em>, <em>38</em>(14), pp.3219-3228. doi: [https://doi.org/10.1175/JCLI-D-24-0425.1](https://journals.ametsoc.org/view/journals/clim/38/14/JCLI-D-24-0425.1.xml).
