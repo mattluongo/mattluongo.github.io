@@ -8,7 +8,6 @@ author_profile: true
 {% include base_path %}
 
 ## Published & In Press 
-======
 <div class="publist" markdown="1">
 11. Hahn, L.C., Lutsko, N.J., Eisenman, I., <b>Luongo, M.T.</b>, & Xie, S.-P. (2025). Contribution of AMOC Decline to Uncertainty in Global Warming via Ocean Heat Uptake and Climate Feedbacks. In press at <em>Journal of Climate</em>. doi: [https://doi.org/10.1175/JCLI-D-24-0752.1](https://journals.ametsoc.org/view/journals/clim/aop/JCLI-D-24-0752.1/JCLI-D-24-0752.1.xml).
 10. <b>Luongo, M.T.</b>, Xie, S.-P., Eisenman, I., Sun, S., & Peng, Q. (2025). How the Subsurface Tropical Pacific Responds to Subtropical Surface Cooling: Implications for Cross-Equatorial Transport. <em> Journal of Climate</em>, <em>38</em>(14), pp.3313-3331. doi: [https://doi.org/10.1175/JCLI-D-24-0440.1](https://journals.ametsoc.org/view/journals/clim/aop/JCLI-D-24-0440.1.xml).
@@ -24,8 +23,7 @@ author_profile: true
 </div>
 
 ## Submitted Manuscripts
-====== 
-<div style="font-size: 0.9em;">
+<div class="publist" markdown="1">
 1. <b>Luongo, M.T.</b>, Xie, S.-P., Eisenman, I., Sun, S., & Armour, K.C. Explaining the Equatorial Pacific Thermocline Response to Climate Change with a Model Hierarchy. Manuscript submitted to <em>JGR: Oceans</em>.
 </div>
 
