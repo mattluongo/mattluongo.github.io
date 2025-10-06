@@ -399,3 +399,20 @@
   font-size: $type-size-6;
   text-transform: uppercase;
 }
+
+/* MTL */ 
+/* --- Smaller text for publication listings --- */
+.publications-list {
+  font-size: 0.9em;      /* Adjust to taste (0.85–0.95 looks good) */
+  line-height: 1.4;      /* Keep readability */
+  margin-top: 0.5em;
+}
+
+.publications-list a {
+  color: inherit;        /* Keep links consistent with text color */
+  text-decoration: underline;
+}
+
+.publications-list em {
+  font-style: italic;
+}
