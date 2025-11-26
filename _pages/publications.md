@@ -24,7 +24,8 @@ author_profile: true
 
 ## Submitted Manuscripts
 <div class="publist" markdown="1">
-1. <b>Luongo, M.T.</b>, Xie, S.-P., Eisenman, I., Sun, S., & Armour, K.C. Explaining the Equatorial Pacific Thermocline Response to Climate Change with a Model Hierarchy. Manuscript under review in <em>JGR: Oceans</em>. Pre-print doi: [10.31223/X5TB4T](https://eartharxiv.org/repository/view/10547/).
-2. Moon, J.-Y., An, S.-I., <b>Luongo, M.T.</b>, Yang, Y.-M., Park, S.-E., Xie, S.-P., & England, M.R. Asymmetric Cross-Hemisphere Climate Response to Extratropical Forcing Mediated by Tropical Pacific Coupling. Manuscript submitted.
+1. Xie, S.-P., Miyamoto, A., Peng, Q., &  <b>Luongo, M.T.</b>. Internal Variability Dominates Tropical Pacific Warming Pattern in Satellite Era. Manuscript submitted.
+2. <b>Luongo, M.T.</b>, Xie, S.-P., Eisenman, I., Sun, S., & Armour, K.C. Explaining the Equatorial Pacific Thermocline Response to Climate Change with a Model Hierarchy. Manuscript under review in <em>JGR: Oceans</em>. Pre-print doi: [10.31223/X5TB4T](https://eartharxiv.org/repository/view/10547/).
+3. Moon, J.-Y., An, S.-I., <b>Luongo, M.T.</b>, Yang, Y.-M., Park, S.-E., Xie, S.-P., & England, M.R. Asymmetric Cross-Hemisphere Climate Response to Extratropical Forcing Mediated by Tropical Pacific Coupling. Manuscript submitted.
 </div>
 
