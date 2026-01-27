@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Download full CV [here](http://mattluongo.github.io/files/LuongoCV_Website.pdf) <small>(Updated Jan. 2025).</small>
+Download full CV [here](http://mattluongo.github.io/files/LuongoCV_Website.pdf) <small>(Updated Jan. 2026).</small>
 
 Education
 ======
