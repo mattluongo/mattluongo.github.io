@@ -9,6 +9,7 @@ author_profile: true
 
 ## Published & In Press 
 <div class="publist" markdown="1">
+12. Moon, J.-Y., An, S.-I., <b>Luongo, M.T.</b>, Yang, Y.-M., Park, S.-E., Xie, S.-P., & England, M.R. (2026). Asymmetric Cross-Hemisphere Climate Response to Extratropical Forcing Mediated by Tropical Pacific Coupling. Manuscript in press at <em>Communications Earth & Environment</em>.
 11. Hahn, L.C., Lutsko, N.J., Eisenman, I., <b>Luongo, M.T.</b>, & Xie, S.-P. (2025). Contribution of AMOC Decline to Uncertainty in Global Warming via Ocean Heat Uptake and Climate Feedbacks. <em> Journal of Climate</em>, <em>38</em>(21), pp.6245-6259. doi: [https://doi.org/10.1175/JCLI-D-24-0752.1](https://journals.ametsoc.org/view/journals/clim/38/21/JCLI-D-24-0752.1.xml).
 10. <b>Luongo, M.T.</b>, Xie, S.-P., Eisenman, I., Sun, S., & Peng, Q. (2025). How the Subsurface Tropical Pacific Responds to Subtropical Surface Cooling: Implications for Cross-Equatorial Transport. <em> Journal of Climate</em>, <em>38</em>(14), pp.3313-3331. doi: [https://doi.org/10.1175/JCLI-D-24-0440.1](https://journals.ametsoc.org/view/journals/clim/aop/JCLI-D-24-0440.1.xml).
 9. Taylor, B.A., Shi, J.-R., Talley, L.D., Xie, S.-P., <b>Luongo, M.T.</b>, & Peng, Q. (2025). Warming Band in Southern Ocean's Indian Sector: The Role of Remote Atlantic Buoyancy Forcing via Poleward-Shifting Circulation Response. <em> Journal of Climate</em>, <em>38</em>(14), pp.3219-3228. doi: [https://doi.org/10.1175/JCLI-D-24-0425.1](https://journals.ametsoc.org/view/journals/clim/38/14/JCLI-D-24-0425.1.xml).
@@ -27,6 +28,5 @@ author_profile: true
 1. Cai, C., <b>Luongo, M.T.</b>, Deppenmeier, A.-L., Thompson, L., & Kessler, W.S. Double-ITCZ Bias Reduces Southern Hemisphere Influence on Tropics via Oceanic Pathways. Manuscript submitted. Pre-print: [10.22541/essoar.177273908.85110962/v1](https://essopenarchive.org/users/641801/articles/1393050-double-itcz-bias-reduces-southern-hemisphere-influence-on-tropics-via-oceanic-pathways).
 2. Xie, S.-P., Miyamoto, A., Peng, Q., &  <b>Luongo, M.T.</b> Internal Variability Dominates Tropical Pacific Warming Pattern in Satellite Era. Manuscript submitted.
 3. <b>Luongo, M.T.</b>, Xie, S.-P., Eisenman, I., Sun, S., & Armour, K.C. Explaining the Equatorial Pacific Thermocline Response to Climate Change with a Model Hierarchy. Manuscript under review in <em>JGR: Oceans</em>. Pre-print: [10.31223/X5TB4T](https://eartharxiv.org/repository/view/10547/).
-4. Moon, J.-Y., An, S.-I., <b>Luongo, M.T.</b>, Yang, Y.-M., Park, S.-E., Xie, S.-P., & England, M.R. Asymmetric Cross-Hemisphere Climate Response to Extratropical Forcing Mediated by Tropical Pacific Coupling. Manuscript submitted.
 </div>
 
