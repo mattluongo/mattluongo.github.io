@@ -9,6 +9,7 @@ author_profile: true
 
 ## Published & In Press 
 <div class="publist" markdown="1">
+14. Cai, C., <b>Luongo, M.T.</b>, Deppenmeier, A.-L., Thompson, L., & Kessler, W.S. Double-ITCZ Bias Reduces Southern Hemisphere Influence on Tropics via Oceanic Pathways. Manuscript in press at <em>Geophysical Research Letters<\em>. Pre-print: [10.22541/essoar.177273908.85110962/v1](https://essopenarchive.org/users/641801/articles/1393050-double-itcz-bias-reduces-southern-hemisphere-influence-on-tropics-via-oceanic-pathways).
 13. <b>Luongo, M.T.</b>, Xie, S.-P., Eisenman, I., Sun, S., & Armour, K.C. Explaining the Equatorial Pacific Thermocline Response to Climate Change with a Model Hierarchy. Manuscript in press at <em>JGR: Oceans</em>. Pre-print: [10.31223/X5TB4T](https://eartharxiv.org/repository/view/10547/).
 12. Moon, J.-Y., An, S.-I., <b>Luongo, M.T.</b>, Yang, Y.-M., Park, S.-E., Xie, S.-P., & England, M.R. (2026). Asymmetric Cross-Hemispheric Climate Response to Extratropical Forcing Mediated by Tropical Pacific Coupling. <em>Communications Earth & Environment</em>. doi: [https://doi.org/10.1038/s43247-026-03706-6](https://www.nature.com/articles/s43247-026-03706-6). 
 11. Hahn, L.C., Lutsko, N.J., Eisenman, I., <b>Luongo, M.T.</b>, & Xie, S.-P. (2025). Contribution of AMOC Decline to Uncertainty in Global Warming via Ocean Heat Uptake and Climate Feedbacks. <em> Journal of Climate</em>, <em>38</em>(21), pp.6245-6259. doi: [https://doi.org/10.1175/JCLI-D-24-0752.1](https://journals.ametsoc.org/view/journals/clim/38/21/JCLI-D-24-0752.1.xml).
@@ -26,6 +27,5 @@ author_profile: true
 
 ## Submitted Manuscripts
 <div class="publist" markdown="1">
-1. Cai, C., <b>Luongo, M.T.</b>, Deppenmeier, A.-L., Thompson, L., & Kessler, W.S. Double-ITCZ Bias Reduces Southern Hemisphere Influence on Tropics via Oceanic Pathways. Manuscript submitted. Pre-print: [10.22541/essoar.177273908.85110962/v1](https://essopenarchive.org/users/641801/articles/1393050-double-itcz-bias-reduces-southern-hemisphere-influence-on-tropics-via-oceanic-pathways).
-2. Xie, S.-P., Miyamoto, A., Peng, Q., &  <b>Luongo, M.T.</b> Internal Variability Dominates Tropical Pacific Warming Pattern in Satellite Era. Manuscript submitted.
+1. Xie, S.-P., Miyamoto, A., Peng, Q., &  <b>Luongo, M.T.</b> Internal Variability Dominates Tropical Pacific Warming Pattern in Satellite Era. Manuscript submitted.
 </div>
