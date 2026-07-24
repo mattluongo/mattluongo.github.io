@@ -9,7 +9,7 @@ author_profile: true
 
 ## Published & In Press 
 <div class="publist" markdown="1">
-15. Xie, S.-P., Miyamoto, A., Peng, Q., &  <b>Luongo, M.T.</b> Internal Variability Dominates Tropical Pacific Warming Pattern in Satellite Era. Manuscript in press at <em>Proceedings of the National Academies of Science</em>.
+15. Xie, S.-P., Miyamoto, A., Peng, Q., &  <b>Luongo, M.T.</b> Internal Variability Dominates Tropical Pacific Warming Pattern in Satellite Era. Manuscript in press at <em>Proceedings of the National Academy of Sciences</em>.
 14. Moon, J.-Y., An, S.-I., <b>Luongo, M.T.</b>, Yang, Y.-M., Park, S.-E., Xie, S.-P., & England, M.R. (2026). Asymmetric Cross-Hemispheric Climate Response to Extratropical Forcing Mediated by Tropical Pacific Coupling. Manuscript in press at <em>Communications Earth & Environment</em>. doi: [https://doi.org/10.1038/s43247-026-03706-6](https://www.nature.com/articles/s43247-026-03706-6). 
 13. Cai, C., <b>Luongo, M.T.</b>, Deppenmeier, A.-L., Thompson, L., & Kessler, W.S. (2026). Double-ITCZ Bias Reduces Southern Hemisphere Influence on Tropics via Oceanic Pathways. <em>Geophysical Research Letters</em>, 53, e2026GL122468. doi: [https://doi.org/10.1029/2026GL122468](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL122468).
 12. <b>Luongo, M.T.</b>, Xie, S.-P., Eisenman, I., Sun, S., & Armour, K.C. (2026). Explaining the Equatorial Pacific Thermocline Response to Climate Change with a Model Hierarchy. <em>Journal of Geophysical Research: Oceans, 131</em>, e2025JC023559. doi: [https://doi.org/10.1029/2025JC023559](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JC023559). 
