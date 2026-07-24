@@ -27,5 +27,6 @@ author_profile: true
 
 ## Submitted Manuscripts
 <div class="publist" markdown="1">
-1. Xie, S.-P., Miyamoto, A., Peng, Q., &  <b>Luongo, M.T.</b> Internal Variability Dominates Tropical Pacific Warming Pattern in Satellite Era. Manuscript submitted.
+1. <b>Luongo, M.T.</b>, Armour, K.C., & Johnson, G.C. Reconstructing Satellite-Era Southern Ocean Temperature and Salinity Trends within Observational Uncertainty. Manuscript submitted.
+2. Xie, S.-P., Miyamoto, A., Peng, Q., &  <b>Luongo, M.T.</b> Internal Variability Dominates Tropical Pacific Warming Pattern in Satellite Era. Manuscript submitted.
 </div>
