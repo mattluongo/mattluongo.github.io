@@ -28,6 +28,7 @@ author_profile: true
 
 ## Submitted Manuscripts
 <div class="publist" markdown="1">
+3. <b>Luongo, M.T.</b>, Blanchard-Wrigglesworth, E., Armour, K.C., Hirasawa, H., Cohen, J.T., & Donohoe, A. Mitigating Summertime Marine Heatwaves via Targeted Marine Cloud Brightening. Manuscript submitted.
 2. Johnson, G.C., <b>Luongo, M.T.</b>, & Lyman, J.M. Spatial Variability of 1993 to 2025 Ocean Temperature Trends Shaped by Poleward Shifts of the Subtropical Gyres. Manuscript submitted. 
 1. <b>Luongo, M.T.</b>, Armour, K.C., & Johnson, G.C. Reconstructing Satellite-Era Southern Ocean Temperature and Salinity Trends within Observational Uncertainty. Manuscript submitted. Pre-print: [https://doi.org/10.31223/X5DV2H](https://eartharxiv.org/repository/view/14091/).
 </div>
