@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Download full CV [here](http://mattluongo.github.io/files/LuongoCV_Website.pdf) <small>(Updated Jun. 2026).</small>
+Download full CV [here](http://mattluongo.github.io/files/LuongoCV_Website.pdf) <small>(Updated Sep. 2026).</small>
 
 Education
 ======
@@ -24,8 +24,11 @@ Education
 
 Work Experience
 ======
+* <b>NOAA Pacific Marine Environmental Laboratory</b>, Seattle, WA<br>
+  <font size = "3">2026 - present: Research Physical Scientist</font>
+  
 * <b>University of Washington</b>, Seattle, WA<br>
-  <font size = "3">2024 - present: CICOES Postdoctoral Research Fellow</font>
+  <font size = "3">2024 - 2026: CICOES Postdoctoral Research Fellow</font>
   
 * <b>Scripps Institution of Oceanography, UCSD</b>, La Jolla, CA<br>
   <font size = "3">2019 - 2024: Graduate Student Researcher</font>
