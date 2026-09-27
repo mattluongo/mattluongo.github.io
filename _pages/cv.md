@@ -13,13 +13,13 @@ Download full CV [here](http://mattluongo.github.io/files/LuongoCV_Website.pdf) 
 
 Education
 ======
-* <b>Ph.D. in Oceanography</b>, 2024<br>
+* <b>Ph.D., Oceanography</b>, 2024<br>
   <font size = "3"> Scripps Institution of Oceanography, UCSD</font>
-* <b>M.S. in Oceanography</b>, 2020<br>
+* <b>M.S., Oceanography</b>, 2020<br>
   <font size = "3"> Scripps Institution of Oceanography, UCSD</font>
-* <b>A.B. in Earth & Planetary Sciences</b>, 2017 <br>
+* <b>A.B., Earth & Planetary Sciences</b>, 2017 <br>
   <font size = "3"> Harvard University</font>
-* <b>A.B. in Engineering Sciences</b>, 2017 <br>
+* <b>A.B., Engineering Sciences</b>, 2017 <br>
   <font size = "3"> Harvard University</font>
 
 Work Experience
