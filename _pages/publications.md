@@ -9,6 +9,7 @@ author_profile: true
 
 ## Published & In Press 
 <div class="publist" markdown="1">
+16. Johnson, G.C., <b>Luongo, M.T.</b>, & Lyman, J.M. Spatial Variability of 1993 to 2025 Ocean Temperature Trends Shaped by Poleward Shifts of the Subtropical Gyres. Manuscript accepted in <em> Geophysical Research Letters</em>. 
 15. Xie, S.-P., Miyamoto, A., Peng, Q., &  <b>Luongo, M.T.</b> (2026). Internal Variability Dominates Tropical Pacific Warming Pattern in Satellite Era. <em>Proceedings of the National Academy of Sciences</em>, 123 (36), e2615883123. doi: [https://doi.org/10.1073/pnas.2615883123](https://www.pnas.org/doi/10.1073/pnas.2615883123).
 14. Cai, C., <b>Luongo, M.T.</b>, Deppenmeier, A.-L., Thompson, L., & Kessler, W.S. (2026). Double-ITCZ Bias Reduces Southern Hemisphere Influence on Tropics via Oceanic Pathways. <em>Geophysical Research Letters</em>, 53, e2026GL122468. doi: [https://doi.org/10.1029/2026GL122468](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL122468).
 13. <b>Luongo, M.T.</b>, Xie, S.-P., Eisenman, I., Sun, S., & Armour, K.C. (2026). Explaining the Equatorial Pacific Thermocline Response to Climate Change with a Model Hierarchy. <em>Journal of Geophysical Research: Oceans</em>, 131, e2025JC023559. doi: [https://doi.org/10.1029/2025JC023559](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JC023559). 
@@ -28,7 +29,6 @@ author_profile: true
 
 ## Submitted Manuscripts
 <div class="publist" markdown="1">
-3. <b>Luongo, M.T.</b>, Blanchard-Wrigglesworth, E., Armour, K.C., Hirasawa, H., Cohen, J.T., & Donohoe, A. Mitigating Summertime Marine Heatwaves via Targeted Marine Cloud Brightening. Manuscript submitted. Pre-print: [https://doi.org/10.31223/X5KV4T](https://eartharxiv.org/repository/view/15016/).
-2. Johnson, G.C., <b>Luongo, M.T.</b>, & Lyman, J.M. Spatial Variability of 1993 to 2025 Ocean Temperature Trends Shaped by Poleward Shifts of the Subtropical Gyres. Manuscript submitted. 
+2. <b>Luongo, M.T.</b>, Blanchard-Wrigglesworth, E., Armour, K.C., Hirasawa, H., Cohen, J.T., & Donohoe, A. Mitigating Summertime Marine Heatwaves via Targeted Marine Cloud Brightening. Manuscript submitted. Pre-print: [https://doi.org/10.31223/X5KV4T](https://eartharxiv.org/repository/view/15016/).
 1. <b>Luongo, M.T.</b>, Armour, K.C., & Johnson, G.C. Reconstructing Satellite-Era Southern Ocean Temperature and Salinity Trends within Observational Uncertainty. Manuscript submitted. Pre-print: [https://doi.org/10.31223/X5DV2H](https://eartharxiv.org/repository/view/14091/).
 </div>
